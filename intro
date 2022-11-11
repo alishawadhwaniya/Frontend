@@ -3,6 +3,7 @@ it has 6 steps:-requirement,analysis,designing,development,testing,maintenance.
 Front-end development is a part of development phase.
 It mostly has to do with HTML,CSS,Javascript,Bootstrap,JQuery,Reactjs
 HTML is hypertext markup language and helps in markup of the website.
+Meta tag in the head of the html is for SEO.
 Website is the collection of webpages.WWW is world wide web and its a server which has the websites stored.
 HTTP is the hypertext transfer protocol and with the help of this protocol websites transfer over the internet.
 HTTPS-the s in HTTPS stands for secure connection.
